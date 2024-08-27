@@ -4,10 +4,16 @@
     <groupId>com.testapi</groupId>
     <artifactId>testapi</artifactId>
     <version>1.0.0-SNAPSHOTmvn</version>
+    <packaging>pom</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <modules>
+        <module>testapi-rest</module>
+        <module>testapi-server</module>
+    </modules>
 
     <build>
         <pluginManagement>

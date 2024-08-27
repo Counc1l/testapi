@@ -1,0 +1,13 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.testapi</groupId>
+        <artifactId>testapi</artifactId>
+        <version>1.0.0-SNAPSHOTmvn</version>
+    </parent>
+
+    <artifactId>testapi-rest</artifactId>
+
+
+</project>
